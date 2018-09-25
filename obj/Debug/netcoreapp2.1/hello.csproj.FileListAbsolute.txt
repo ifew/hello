@@ -1,0 +1,14 @@
+/Users/ifew/www_test/test-dotnet/hello/bin/Debug/netcoreapp2.1/hello.deps.json
+/Users/ifew/www_test/test-dotnet/hello/bin/Debug/netcoreapp2.1/hello.runtimeconfig.json
+/Users/ifew/www_test/test-dotnet/hello/bin/Debug/netcoreapp2.1/hello.runtimeconfig.dev.json
+/Users/ifew/www_test/test-dotnet/hello/bin/Debug/netcoreapp2.1/hello.dll
+/Users/ifew/www_test/test-dotnet/hello/bin/Debug/netcoreapp2.1/hello.pdb
+/Users/ifew/www_test/test-dotnet/hello/obj/Debug/netcoreapp2.1/hello.csprojAssemblyReference.cache
+/Users/ifew/www_test/test-dotnet/hello/obj/Debug/netcoreapp2.1/hello.csproj.CoreCompileInputs.cache
+/Users/ifew/www_test/test-dotnet/hello/obj/Debug/netcoreapp2.1/hello.RazorAssemblyInfo.cache
+/Users/ifew/www_test/test-dotnet/hello/obj/Debug/netcoreapp2.1/hello.RazorAssemblyInfo.cs
+/Users/ifew/www_test/test-dotnet/hello/obj/Debug/netcoreapp2.1/hello.AssemblyInfoInputs.cache
+/Users/ifew/www_test/test-dotnet/hello/obj/Debug/netcoreapp2.1/hello.AssemblyInfo.cs
+/Users/ifew/www_test/test-dotnet/hello/obj/Debug/netcoreapp2.1/hello.RazorTargetAssemblyInfo.cache
+/Users/ifew/www_test/test-dotnet/hello/obj/Debug/netcoreapp2.1/hello.dll
+/Users/ifew/www_test/test-dotnet/hello/obj/Debug/netcoreapp2.1/hello.pdb
