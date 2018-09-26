@@ -14,7 +14,7 @@ namespace hello.Controllers
         [HttpGet]
         public ActionResult<string> Get()
         {
-            return "Hello IMC";
+            return "Hello World";
         }
 
         // GET api/values/5
